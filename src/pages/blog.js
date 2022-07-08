@@ -23,6 +23,7 @@ function BlogPage() {
                         <li key={node.name}>{node.name}</li>
                     ))}
                 </ul>
+
             </Layout>
     );
 }
